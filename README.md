@@ -6,7 +6,7 @@
 
 - 🧠 I’m currently learning **lots of notions in both cybersecurity and AI.**
 
-- 👀 My interests are: **cybersecurity**, **intelligence**, **cyber intelligence**, **open source intelligence (OSINT)** and **artificial intelligence**
+- 👀 My interests are: **cybersecurity**, **intelligence**, **cyber intelligence**, **open source intelligence (OSINT)**, **artificial intelligence** and **autonomous aerial systems**
 
 - 📫 How to reach me **voltan.gabriele@icloud.com**
 
