@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **voltan.gabriele@icloud.com**
 
-<h3 align="left">My pubblications:</h3>
+<h3 align="left">My publications:</h3>
 <p align="left">
-<a href="https://scholar.google.com/citations?hl=en&user=0HbvA7UAAAAJ" target="blank"><img align="center" src="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar" alt="gabriele voltan scholar" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=0HbvA7UAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="gabriele voltan scholar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
