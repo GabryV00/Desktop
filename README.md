@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriele Voltan</h1>
-<h3 align="center">A Master Degree Student in Artificial Intelligence & Cybersecurity</h3>
-<h3 align="center">at the University of Udine and the Alpen-Adria Universität of Klagenfurt</h3>
+<h3 align="center">a Cybersecurity Consultant💻</h3>
+
+- 🎓 I have a master degree in Artificial Intelligence & Cybersecurity obtained at the University of Udine and the Alpen-Adria Universität of Klagenfurt
 
 - 🐍 I am a member, tutor and CTF player of **MadrHacks**, the CyberSecurity team of the University of Udine
 
